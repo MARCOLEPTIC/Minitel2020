@@ -1,2 +1,5 @@
 # Minitel2020
-Carte d'adaptation pour Minitel
+
+## Introduction
+Le projet minitel 2020 (prononcer Minitel vingt vingt) à pour objectif de remettre vos vieux minitel en remplaçant la carte mère par une nouvelles carte plus performante.
+
